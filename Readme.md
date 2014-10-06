@@ -11,7 +11,7 @@ Clustering Algoithms Used
 K-Medoids
 ----------
 * Manhattan Distance Used as Distance Metric
-* Partitioning over Medoids (PAM) Algorithm
+* Partitioning Around Medoids (PAM) Algorithm
 
 How to run
 -----------
